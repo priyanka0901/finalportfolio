@@ -17,10 +17,10 @@
     left: 0;  
 }
 .main{
-	top:320px;
+	bottom:0;
 	height:50%;
 	width:100%;
-    position: relative;
+    position: fixed;
     z-index: 1;
     background-color: rgba(240,240,240,0.722);
     -moz-transition: all 0.75s ease 0s;
