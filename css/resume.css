@@ -1,8 +1,10 @@
-body{
+html,body{
 	margin:0;
+	background-color: #f7ffe5
 }
 .container{
 	background-color: #f7ffe5;
+	padding-bottom: 30px;
 
 }
 h1{
@@ -69,11 +71,12 @@ h3{
 	font-size: 15px;
 }
 p{
+	margin:0;
 	margin-left: 200px;
-	margin-top: 0;
 	font-family: 'Lato', sans-serif;
 	color:#555;
 	letter-spacing: 0.6px;
 	word-spacing: 2px;
 	line-height: 30px;
+
 	}
