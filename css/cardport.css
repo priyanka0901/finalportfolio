@@ -1,93 +1,33 @@
+
+$font-family = 'Raleway', sans-serif;
+
+
 html,body{
 margin:0;
 height:100%;
 width:100%;
+font-family: $font-family;
 }
 .container{
 height: 100%;
 }
-.wrapper{
-background:url("../assets/landing.jpg");
-background-size: cover;
-height:100%;
-width:100%;
-position: absolute;
-top: 0;
-left: 0;
-}
-.main{
-bottom:0;
-height:50%;
-width:100%;
-position: fixed;
-z-index: 1;
-background-color: rgba(240,240,240,0.722);
--moz-transition: all 0.75s ease 0s;
--webkit-transition: all 0.75s ease 0s;
--ms-transition: all 0.75s ease 0s;
-transition: all 0.75s ease 0s;
-}
-h1{
-margin:25px auto;
-width:400px;
-
-text-transform: uppercase;
-color: #666;
-font-family: 'Roboto Slab';
-
-letter-spacing: 0.5rem;
-left: 0.25rem;
-font-size: 2em;
-line-height: 1.375;
-font-weight: 400;
-
-}
-p{
-margin: 40px auto;
-width: 800px;
-text-align: center;
-color: rgba(0,0,0,0.478);
-font-family: 'Lato', sans-serif;
-position: relative;
-letter-spacing: 1.8px;
-word-spacing: 6px;
-font-size: 1.2em;
-font-weight: 400;
-line-height: 28px;
-}
-ul{
-margin-left: 320px;
-margin-top: 70px;
-}
-li{
-list-style-type: none;
-display: inline-block;
-top:150px;
-}
-a{
-text-decoration: none;
-top:200px;
-margin-left:30px;
-color:black;
-
-}
-li a{
-
-padding: 0 1.3125rem;
-text-transform: uppercase;
-font-size: 0.8em;
-font-family: 'Raleway', sans-serif;
-letter-spacing: 0.275rem;
-padding-left: calc(0.275rem + 1.3125rem);
-font-weight: 400;
-border-radius: 2rem;
-border: 0.4px #555 solid;
-color:#666;
-padding-top: 12px;
-padding-bottom: 12px;
-text-align: center;
-}
-li a:hover{
-border:0.2px #7EB1B7 solid;
-color:#7EB1B7;
-}
+.navbar-ul {
+	margin-left: 150px;
+    margin-top: 20px;
+	li{
+      list-style-type: none;
+      display: inline-block;
+      a{
+         padding: 0 1.3125rem;
+         text-transform: uppercase;
+         font-size: 0.8em;
+         letter-spacing: 0.275rem;
+         font-weight: 400;
+         color:#666;
+        }
+       a:hover{
+           border:0.2px #7EB1B7 solid;
+           color:#7EB1B7;
+         }
+     }
+ }     
