@@ -19,7 +19,8 @@ a {
   text-decoration: none; }
 
 li {
-  font-size: 14px; }
+  font-size: 14px;
+  list-style-type: none; }
 
 ul {
   padding: 0; }
@@ -52,14 +53,16 @@ p {
 
 .resume-btn {
   color: #444;
-  padding: 5px 12px;
+  padding: 5px 1px;
   float: right;
   font-size: 15px;
   cursor: pointer;
-  border: 1px solid #ccc; }
+  border: 1px solid #ccc;
+  border-radius: 2px; }
 
 .resume-btn:hover {
-  border: 1px solid #000; }
+  border: 1px solid #000;
+  border-radius: 2px; }
 
 .container {
   height: 100%; }
@@ -84,7 +87,7 @@ p {
 
 /*-----work page ------*/
 .work-page {
-  background: #fafafa;
+  background: #f7f7f7;
   -webkit-transform: rotate(-4deg);
   -moz-transform: rotate(-4deg);
   -ms-transform: rotate(-4deg);
@@ -105,7 +108,7 @@ p {
     margin: auto; }
     .work-page .work-page-inside h2 {
       text-align: right;
-      width: 93%;
+      width: 87%;
       text-transform: uppercase; }
 
 .work-animate-page {
@@ -121,7 +124,7 @@ p {
   -webkit-transition: all 200ms linear;
   -moz--transition: all 200ms linear;
   transition: all 200ms linear;
-  box-shadow: 10px 10px 5px #ccc;
+  /* box-shadow: 10px 10px 5px #ccc;*/
   position: relative;
   overflow: hidden;
   transition: transform 0.5s ease-out;
@@ -144,7 +147,7 @@ p {
 
 .work-page-inside__para {
   margin-top: 30px;
-  font-size: 17px; }
+  font-size: 20px; }
 
 .work-page-inside-projectone {
   background: url("../assets/project13.jpg");
@@ -168,21 +171,23 @@ p {
     text-transform: uppercase; }
   .connect-page p {
     width: 70%;
-    margin: 60px 0; }
+    margin-top: 60px; }
 
-.social-buttons {
-  width: 250px; }
-  .social-buttons a {
-    font-size: 15px;
-    color: #444;
-    padding-left: 10px; }
+.social-buttons a {
+  font-size: 15px;
+  color: #444;
+  padding-left: 10px; }
 
 .connect-page-animate {
   position: relative;
   top: 30px;
   opacity: 0; }
 
-.social-buttons-number {
-  width: 200px; }
+.connect-page-info {
+  margin: 40px 0 30px 0; }
+  .connect-page-info li {
+    line-height: 25px; }
+  .connect-page-info a {
+    color: #666; }
 
 /*# sourceMappingURL=main.css.map */

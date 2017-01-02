@@ -23,9 +23,11 @@ a{
   font-size: 14px;
   letter-spacing: .8px;
   text-decoration: none;
+
 }
 li{
   font-size: 14px;
+  list-style-type: none;
 }
 ul{
   padding: 0;
@@ -63,14 +65,16 @@ p{
  }     
  .resume-btn{
   color:#444;
-  padding: 5px 12px;
+  padding: 5px 1px;
   float: right;
   font-size:15px;
   cursor: pointer;
   border: 1px solid #ccc;
+  border-radius: 2px;
  }
  .resume-btn:hover{
 border: 1px solid #000;
+border-radius: 2px;
  }
 
 .container {
@@ -105,7 +109,7 @@ border: 1px solid #000;
 /*-----work page ------*/
 
 .work-page{
-  background: #fafafa;
+  background: #f7f7f7;
    -webkit-transform: rotate(-4deg);
   -moz-transform: rotate(-4deg);
   -ms-transform: rotate(-4deg);
@@ -128,7 +132,7 @@ border: 1px solid #000;
 
   h2{
     text-align: right;
-    width: 93%;
+    width: 87%;
     text-transform: uppercase;
   }
  }
@@ -146,7 +150,7 @@ border: 1px solid #000;
     -webkit-transition: all 200ms linear;
     -moz--transition: all 200ms linear;
     transition: all 200ms linear;
-    box-shadow: 10px 10px 5px #ccc;
+   /* box-shadow: 10px 10px 5px #ccc;*/
     position: relative;
     overflow: hidden;
     transition: transform 0.5s ease-out;
@@ -173,7 +177,7 @@ border: 1px solid #000;
 
 .work-page-inside__para {
 margin-top: 30px;
-font-size: 17px;
+font-size: 20px;
 }
 
 .work-page-inside-projectone {
@@ -206,12 +210,11 @@ font-size: 17px;
 
   p {
     width: 70%;
-    margin:60px 0;
+    margin-top:60px;
   }
 }
 
 .social-buttons {
-  width: 250px;
 
   a {
     font-size: 15px;
@@ -225,11 +228,19 @@ font-size: 17px;
   top: 30px;
   opacity: 0;
 }
-.social-buttons-number{
-  width: 200px;
+.connect-page-info {
+   
+     margin:40px 0 30px 0;
+
+
+  li{
+    line-height: 25px;
+  }
+
+  a{
+  color:#666;
+  }
 }
-
-
 
 
 
