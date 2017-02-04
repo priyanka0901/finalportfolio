@@ -156,7 +156,7 @@ p {
   text-align: middle; }
 
 .work-page-inside-projecttwo {
-  background: url("../assets/project2.jpg");
+  background: url("../assets/proto.jpg");
   background-size: cover;
   background-position: center; }
 
@@ -189,5 +189,7 @@ p {
     line-height: 25px; }
   .connect-page-info a {
     color: #666; }
+
+/*----media queries-----*/
 
 /*# sourceMappingURL=main.css.map */

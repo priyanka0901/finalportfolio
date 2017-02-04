@@ -1,0 +1,328 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"dietItem"
+			],
+			[
+				"pro",
+				"protein"
+			],
+			[
+				"reci",
+				"recipeId"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"work-page",
+				"js-work-page"
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"fff",
+				"f2f2f2"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"co",
+				"connectposition"
+			],
+			[
+				"conn",
+				"connect-page-animate"
+			],
+			[
+				"work",
+				"workposition"
+			],
+			[
+				"la",
+				"landing-page"
+			],
+			[
+				"wok",
+				"workposition"
+			],
+			[
+				"page",
+				"pagescroll"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"sa",
+				"scaleY()"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"work-page-inside",
+				"work-page-inside__para"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"btn",
+				"btn-hover-text"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"text",
+				"text-color"
+			],
+			[
+				"le",
+				"letter-spacing"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 165.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Priyankagupta/Workstation/priyanka0901.github.io"
+	],
+	"file_history":
+	[
+		"/Users/Priyankagupta/Workstation/opensource/proto/assets/styles/views/mydiet.scss",
+		"/Users/Priyankagupta/Workstation/opensource/proto/app/components/navbar/navbar.jsx",
+		"/Users/Priyankagupta/Workstation/opensource/proto/README.md",
+		"/Users/Priyankagupta/Workstation/priyanka0901.github.io/index.html",
+		"/Users/Priyankagupta/Workstation/opensource/proto/tasks/assets.js",
+		"/Users/Priyankagupta/Workstation/opensource/proto/package.json",
+		"/Users/Priyankagupta/Workstation/opensource/proto/index.html",
+		"/Users/Priyankagupta/Workstation/opensource/proto/app/components/dashboardproject/projecthead.jsx",
+		"/Users/Priyankagupta/Workstation/opensource/proto/.editorconfig",
+		"/Users/Priyankagupta/Workstation/opensource/proto/.babelrc",
+		"/Users/Priyankagupta/Workstation/priyanka0901.github.io/style/main.scss",
+		"/Users/Priyankagupta/Workstation/priyanka0901.github.io/css/main.css",
+		"/Users/Priyankagupta/Workstation/priyanka0901.github.io/js/main.js",
+		"/Users/Priyankagupta/Desktop/resume.pdf",
+		"/Users/Priyankagupta/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/Priyankagupta/Workstation/priyanka0901.github.io/scss/main.scss",
+		"/Users/Priyankagupta/Workstation/priyanka0901.github.io/css/main.scss",
+		"/Users/Priyankagupta/Workstation/priyanka0901.github.io/main.scss"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/Priyankagupta/Workstation/priyanka0901.github.io"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workstation/camp/camp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

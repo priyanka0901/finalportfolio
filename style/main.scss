@@ -189,7 +189,7 @@ font-size: 20px;
 
 
 .work-page-inside-projecttwo {
-  background: url("../assets/project2.jpg");
+  background: url("../assets/proto.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -243,6 +243,15 @@ font-size: 20px;
   }
 }
 
+/*----media queries-----*/
+@media only screen and (max-width: 760px){
+ .work-page{
+    
+ }
+ .work-page-inside{
+     
+ }
+}
 
 
 
