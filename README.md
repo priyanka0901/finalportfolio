@@ -1,4 +1,4 @@
-![Screenshot](/resume.pdf?raw=true "Screenshot")
+![Screenshot](/Screenshot.png?raw=true "Screenshot")
 
 ## Who am  I ?
 I'm Priyanka Gupta, a UI / UX developer living and working in Gurgaon. I'm passionate about creating designs which reflects uniqueness, creativity and originality. My aim is always to build a clean and quality code with amazing user experience. I drive my enthusiasm towards learning new things and push myself beyond limit in order to acquire knowledge. 
